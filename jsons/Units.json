@@ -1,0 +1,33 @@
+[
+    {
+		"name": "Bannerman Rider",
+        "replaces": "Knight",
+        "uniqueTo": "Manchuria",
+		"unitType": "Mounted",
+		"movement": 4,
+		"strength": 25,
+		"cost": 120,
+		"requiredTech": "Chivalry",
+		"requiredResource": "Horses",
+		"uniques": ["Can move after attacking","No defensive terrain bonus","+[25]% Strength vs [Melee]"],
+		"promotions": ["Charge","Quick Study"],
+        "hurryCostModifier": 20,
+		"attackSound": "horse"
+	},
+	{
+		"name": "Bannerman Gunner",
+		"replaces": "Musketman",
+        "uniqueTo": "Manchuria",
+		"unitType": "Melee",
+		"movement": 2,
+		"strength": 25,
+		"cost": 140,
+		"requiredTech": "Gunpowder",
+		"obsoleteTech": "Replaceable Parts",
+		"upgradesTo": "Great War Infantry",
+		"hurryCostModifier": 20,
+		"uniques": ["Can move after attacking","No defensive terrain bonus"],
+		"promotions": ["Blitz"],
+		"attackSound": "shot"
+	},
+]
