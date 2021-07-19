@@ -1,0 +1,32 @@
+[
+	{
+		"name": "Manchuria",
+		"leaderName": "Emperor Puyi",
+		"adjective": ["Manchurian"],
+		"startBias": ["Grassland"],
+		"preferredVictoryType": "Domination",
+		
+		"startIntroPart1": "May the blessings of Heaven be upon you, O great Xuantong Emperor! Your empires were stolen away from you by the dastardly Sun Yat-Sen and his republican revolutionaries during the Xinhai Revolution of 1911. To add insult to injury, those Republican traitors made sure to annex Manchuria into the Republic of China! Manchuria, which had been a monarchy since time immemorial, is now part of a republic ruled by a cabal of politicians from Nanjing!",
+		"startIntroPart2": "But is Manchuria indeed gone forever, Son of Heaven? Your quest to make Manchuria great again begins now! Your people look to you to bring the empire back to life once more. Will you accept the challenge? Will you build a civilization that will stand the test of time?",
+		
+		"declaringWar": "The penultimate destiny for Manchuria to avenge and conquer begins...",
+		"attacked": "You possibly can't think you can stomp us out?",
+		"defeated": "I...did not foresee this, forgive me...",
+		"introduction": "Greetings from the rightful Emperor of Manchuria, Puyi.",
+		
+		"neutralHello": "Pay respect to me, foreigner.",
+		"hateHello": "I do not tolerate the presence of peasants in my court.",
+		
+		"tradeRequest": "Manchuria sees your realm as an ideal trading partner.",
+				
+		"outerColor": [255,83,61],
+		"innerColor": [40,0,0],
+		"uniqueName": "Harmony of the Five Nations",
+		"uniques": ["Double quantity of [Horses] produced","Double quantity of [Iron] produced", "Unhappiness from population decreased by [50]%",
+		"-[25]% [Land] unit maintenance costs"],
+		"cities": ["Changchun","Shenyang","Harbin","Jinzhou","Anshan","Fushun","Siping","Yanji","Jilin","Mudanjiang",
+			"Jiamusi","Hegang","Bei'an","Qiqihar","Baicheng","Hailar","Manzhouli","Yitulihe","Gulian","Dalian",
+			"Lushun","Yingkou","Panjin","Fuxin","Tonghua","Baishan","Daqing","Suihua","Yichun","Hinggan",
+			"Tongliao","Huludao","Chaoyang","Liaoning","Hulunbuir","Daxing'anling","Benxi","Taishan","Heqixang","Shuangliao"]
+	},
+]
