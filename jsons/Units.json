@@ -18,7 +18,7 @@
 		"name": "Bannerman Gunner",
 		"replaces": "Musketman",
         "uniqueTo": "Manchuria",
-		"unitType": "Melee",
+		"unitType": "Gunpowder",
 		"movement": 2,
 		"strength": 25,
 		"cost": 140,
