@@ -9,3 +9,5 @@ v. 1.2: Added in the "Favored Religion" mechanic in line with the latest update 
 v. 1.3: Updated the Land Unit maintenance values to make it work with the base game, updated the Unhappiness reduction mechanic.
 
 v. 1.4: Updated the damage values.
+
+v. 1.5: Updated the Bannerman Gunner.
