@@ -11,3 +11,5 @@ v. 1.3: Updated the Land Unit maintenance values to make it work with the base g
 v. 1.4: Updated the damage values.
 
 v. 1.5: Updated the Bannerman Gunner.
+
+v. 1.6: Updated the Bannerman Rider.
