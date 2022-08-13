@@ -14,4 +14,4 @@ v. 1.5: Updated the Bannerman Gunner.
 
 v. 1.6: Updated all jsons.
 
-v.1.7: Updated Nations.json.
+v.1.7: Updated Manchuria's unique.
