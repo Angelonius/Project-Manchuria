@@ -3,3 +3,4 @@ Here are all the sources for the various image files used in this mod along with
 1. Bannerman Gunner: https://thenounproject.com/search/?q=rifle&i=1814951 by designvector 
 2. Bannerman Rider: https://thenounproject.com/search/?q=sword+chinese&i=3146744 by Dron Desain, ID 
 3. Nirekin's mod: https://github.com/Nirekin-sys/Manchukuo
+4. Bannerman Rider sprite: https://github.com/letstalkaboutdune
